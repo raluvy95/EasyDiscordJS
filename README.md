@@ -92,7 +92,7 @@ module.exports = {
 # Documents
 
 # Download
-The library can be download via [npm](https://www.npmjs.com)
+The library can be download via [npm](https://www.npmjs.com/package/@therealraluvy/easydiscord.js)
 ```
 npm i @therealraluvy/easydiscord.js
 ```
