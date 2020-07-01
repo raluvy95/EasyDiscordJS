@@ -94,6 +94,6 @@ module.exports = {
 # Download
 The library can be download via [npm](https://www.npmjs.com)
 ```
-npm i easydiscord.js
+npm i @therealraluvy/easydiscord.js
 ```
 
