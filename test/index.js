@@ -16,4 +16,4 @@ client.on("message", message => {
     if(!command) return 
     command.run(message, args, client)
 })
-client.login("Njk4NTk5NTEyMTQyMzgxMDk2.XtlS3Q.PSaB6iUP5SDmVqrKjK64GEBO8oE")
+client.login("token")
