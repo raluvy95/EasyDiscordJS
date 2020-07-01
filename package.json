@@ -1,0 +1,33 @@
+{
+  "name": "easydiscordjs",
+  "version": "1.0.0",
+  "description": "The easy function-only for your Discord.JS bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "easy",
+    "function-only"
+  ],
+  "author": "raluvy95",
+  "license": "MIT",
+  "dependencies": {
+    "ms": "^2.1.2",
+    "discord.js": "^12.2.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raluvy95/EasyDiscordJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raluvy95/EasyDiscordJS/issues"
+  },
+  "homepage": "https://github.com/raluvy95/EasyDiscordJS#readme"
+}
