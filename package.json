@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "The easy function-only for your Discord.JS bot!",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "node test/index.js"
   },
